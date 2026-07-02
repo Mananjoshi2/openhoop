@@ -1,6 +1,6 @@
 # OpenHoop 🏀
 
-Crowdsourced basketball court finder for the Greater Toronto Area. Find a run, check in, and own the court.
+A crowdsourced basketball court finder. Search courts near you, see who's already there, join a pickup game, or just find somewhere to get shots up. More cities coming soon.
 
 **Live demo:** https://openhoop.onrender.com
 
@@ -8,11 +8,11 @@ Crowdsourced basketball court finder for the Greater Toronto Area. Find a run, c
 
 ## What it does
 
-- **Interactive dark map** of 60+ real GTA basketball courts across Toronto, Mississauga, Brampton, Etobicoke, and York
-- **Live status** — courts show as Free, Pickup Forming, or Game On based on check-ins
-- **Check In** to a court to let other ballers know you're there
-- **Add a Court** — drop a pin on the map and submit a court the community hasn't found yet
-- **Search & filter** courts by name or activity status
+- **Find courts near you** on an interactive map with 60+ locations and more being added
+- **See live activity** so you know if a court is empty, has a pickup forming, or has a full game running
+- **Check in** when you show up so other players know the court is live
+- **Add a court** by dropping a pin anywhere on the map and filling in the details
+- **Search and filter** by court name or activity level
 
 ## Tech stack
 
