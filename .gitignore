@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Build output
+dist/
+
+# SQLite database (auto-seeded on startup)
+server/courts.db
+server/courts.db-shm
+server/courts.db-wal
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# Editor / OS / IDE
+.DS_Store
+.vscode/
+.claude/
+*.log
