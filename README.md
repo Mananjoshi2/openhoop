@@ -4,6 +4,8 @@ A crowdsourced basketball court finder. Search courts near you, see who's alread
 
 **Live demo:** https://openhoop.onrender.com
 
+![OpenHoop map showing basketball courts across the city](screenshot.png)
+
 ---
 
 ## What it does
